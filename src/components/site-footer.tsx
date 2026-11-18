@@ -96,7 +96,7 @@ export function SiteFooter() {
             </li>
             <li>
               <a
-                href="https://github.com/indranil122/ink-python"
+                href="https://github.com/indranil098/python-learn"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="text-ink-60 transition-colors hover:text-ink"

@@ -4,7 +4,7 @@
 
 **A free, gamified Python course that runs entirely in your browser.**
 
-[![CI](https://github.com/indranil122/ink-python/actions/workflows/ci.yml/badge.svg)](https://github.com/indranil122/ink-python/actions/workflows/ci.yml)
+[![CI](https://github.com/indranil098/python-learn/actions/workflows/ci.yml/badge.svg)](https://github.com/indranil098/python-learn/actions/workflows/ci.yml)
 [![Code license: MIT](https://img.shields.io/badge/code%20license-MIT-0a0a0a?style=flat-square)](LICENSE)
 [![Content license: CC BY-NC-SA 4.0](https://img.shields.io/badge/content%20license-CC%20BY--NC--SA%204.0-0a0a0a?style=flat-square)](CONTENT-LICENSE.md)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org)
@@ -41,7 +41,7 @@ an IDE.
 ## Quick start
 
 ```bash
-git clone https://github.com/indranil122/ink-python.git
+git clone https://github.com/indranil098/python-learn.git
 cd ink-python
 npm install
 npm run dev

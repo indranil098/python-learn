@@ -19,10 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indranil122/ink-python.git"
+    "url": "git+https://github.com/indranil098/python-learn.git"
   },
   "bugs": {
-    "url": "https://github.com/indranil122/ink-python/issues"
+    "url": "https://github.com/indranil098/python-learn/issues"
   },
   "engines": {
     "node": ">=20.9.0"

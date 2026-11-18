@@ -19,8 +19,8 @@ Requirements:
 - npm with the committed lockfile.
 
 ```bash
-git clone https://github.com/indranil122/ink-python.git
-cd ink-python
+git clone https://github.com/indranil098/python-learn.git
+cd python-learn
 npm install
 npm run dev
 ```

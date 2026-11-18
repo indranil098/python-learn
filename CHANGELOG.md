@@ -25,4 +25,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dual licensing package: MIT for software, CC BY-NC-SA 4.0 for original
   course content, with third-party notices.
 
-[0.1.0]: https://github.com/indranil122/ink-python/releases/tag/v0.1.0
+[0.1.0]: https://github.com/indranil098/python-learn/releases/tag/v0.1.0

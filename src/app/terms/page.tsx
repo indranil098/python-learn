@@ -48,14 +48,14 @@ export default function TermsPage() {
         <p className="measure mt-4 leading-relaxed text-ink-60">
           Software is licensed under the{" "}
           <a
-            href="https://github.com/indranil122/ink-python/blob/main/LICENSE"
+            href="https://github.com/indranil098/python-learn/blob/main/LICENSE"
             className="underline decoration-1 underline-offset-4 hover:decoration-2"
           >
             MIT License
           </a>
           . Original course content is licensed under{" "}
           <a
-            href="https://github.com/indranil122/ink-python/blob/main/CONTENT-LICENSE.md"
+            href="https://github.com/indranil098/python-learn/blob/main/CONTENT-LICENSE.md"
             className="underline decoration-1 underline-offset-4 hover:decoration-2"
           >
             CC BY-NC-SA 4.0
